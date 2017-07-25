@@ -10,7 +10,7 @@
 (function() {
     
     // TODO: Random generation
-    var xds = ['xD', 'XD', 'xd', 'XDDD', 'XDXDXDD', 'xDDD', 'xdd', 'xDD', 'Xddd', "xdDDDDDDDD', 'XDDDDD', 'XDDDD', 'xddddddd', 'xdxxdd', 'xdddddd'];
+    var xds = ['xD', 'XD', 'xd', 'XDDD', 'XDXDXDD', 'xDDD', 'xdd', 'xDD', 'Xddd', 'xdDDDDDDDD', 'XDDDDD', 'XDDDD', 'xddddddd', 'xdxxdd', 'xdddddd'];
     
     $('.link-gray-dark.no-underline.h4.js-navigation-open').each(function(){
 
