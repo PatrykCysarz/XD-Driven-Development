@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         XD DRIVEN DEVELOPMENT
-// @version      0.1
+// @version      0.1.1
 // @description  Bring more XD to your software development
 // @author       You
 // @match        https://github.com/*
@@ -9,7 +9,8 @@
 
 (function() {
     
-    var xds = ['xD', 'XD', 'xd', 'XDDD', 'XDXDXDD', 'xDDD', 'xdd'];
+    // TODO: Random generation
+    var xds = ['xD', 'XD', 'xd', 'XDDD', 'XDXDXDD', 'xDDD', 'xdd', 'xDD', 'Xddd', 'xdDDDDDDDD', 'XDDDDD', 'XDDDD', 'xddddddd', 'xdxxdd', 'xdddddd'];
     
     $('.link-gray-dark.no-underline.h4.js-navigation-open').each(function(){
 
